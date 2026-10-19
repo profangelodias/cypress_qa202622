@@ -1,0 +1,23 @@
+{
+  "name": "cypress_qa202622",
+  "version": "1.0.0",
+  "description": "Projeto scafold de Cypress QA202622",
+  "homepage": "https://github.com/profangelodias/cypress_qa202622#readme",
+  "bugs": {
+    "url": "https://github.com/profangelodias/cypress_qa202622/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/profangelodias/cypress_qa202622.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "cypress": "^16.2.0"
+  }
+}
